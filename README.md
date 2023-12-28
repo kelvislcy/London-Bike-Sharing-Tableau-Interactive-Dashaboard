@@ -30,7 +30,3 @@ Explore the interactive Tableau dashboards online:
 
 - `london_bikes_final.xlsx`: Cleaned and processed dataset used for Tableau visualizations.
 - `Tableau_Dashboards.twbx`: Tableau workbook file containing interactive dashboards.
-
-## Acknowledgments
-
-Special thanks to HRISTO MAVRODIEV for the London bike sharing dataset used in this analysis. [https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset]
